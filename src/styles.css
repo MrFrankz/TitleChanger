@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+	background: #555;
+}
+
+h1 {
+	color: #eee;
+	font: 30px Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	text-shadow: 0px 1px black;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+label {
+	color: #eee;
+	font: 20px Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	text-shadow: 0px 1px black;
+	margin-bottom: 50px;
+}
